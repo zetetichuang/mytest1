@@ -1,0 +1,6 @@
+{
+  "name": "隨機號碼抽籤器",
+  "description": "可自訂號碼範圍、一次抽取多個號碼的隨機抽籤工具，支援開獎動畫、音效、不重複抽取與歷史記錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
